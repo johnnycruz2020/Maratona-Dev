@@ -7,3 +7,5 @@ Projeto criado na 🚀 Maratona Dev da @RocketSeat
 - Javascript
 - HTML
 - CSS
+- Node.js
+- PostgresSQL
